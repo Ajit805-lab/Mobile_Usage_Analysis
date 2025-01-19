@@ -42,7 +42,7 @@ Snap of visual:
 
 - Step-6 : Calculated avg_Age of user,
 
-	Avg_Age of user=avg(age)
+	Avg_Age of user = avg(age)
 
 A card visual was used to represent the avg of user 
 
@@ -52,7 +52,7 @@ Snap of visual:
 
 - Step-7 : Calculated avg of data using,
 
-	Avg of user=avg(data usage)
+	Avg of user = avg(data usage)
 
 A card visual was used to represent the avg of data usage 
 
