@@ -40,9 +40,9 @@ Snap of visual:
 
 ![Image](https://github.com/user-attachments/assets/8c417e2a-473e-4b41-ae2e-2559b0e2c987)
 
-- Step-6 : Calculated avg of user,
+- Step-6 : Calculated avg_Age of user,
 
-	Avg of user=avg(user id)
+	Avg_Age of user=avg(age)
 
 A card visual was used to represent the avg of user 
 
