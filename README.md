@@ -14,16 +14,24 @@ this report gives information about mobile usage in criteria of gender and age g
 - Step-3 : After load data create some calculated column as per requirement the calculated columns are user_behaviour_class, Age_group.
 - Step-4 : For creating new column following Dax expression was written;
 
- Behaviour_class= 
-		 if([age]<=2)="Low"
-		 if([age]<=4)="Medium"
+ Behaviour_class_Group= 
+ 
+		 if([ Behaviour_class]<=2)="Low"
+   
+		 if([ Behaviour_class]<=4)="Medium"
+   
 		 Else="High"
 
 Age_Group=
+
 		if([age]<20)="Below 20"
+  
 		if[age]<=30)="20-30"
+  
 		if([age]<=40)="30-40"
+  
 		if([age]<=50)="40-50"
+  
 		Else:"50-59"
 
 Snap of new calculated column :
