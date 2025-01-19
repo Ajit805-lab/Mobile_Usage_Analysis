@@ -52,7 +52,7 @@ Snap of visual:
 
 - Step-7 : Calculated avg of data using,
 
-	Avg of user = avg(data usage)
+	Avg_data usage = avg(data usage)
 
 A card visual was used to represent the avg of data usage 
 
